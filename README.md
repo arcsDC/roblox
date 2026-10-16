@@ -2,34 +2,6 @@
 
 Welcome to the place for custom Roblox Studio assets, optimization plugins and management tools. This place is made to store, track and share development assets in a clean and easy way.
 
----
-
-## 📦 What's Inside?
-
-This place is divided into sections for easy use:
-
-* **📁 Models/**. Models that are already set up animation sets and mechanical layout systems that are ready to use in your workspace.
-
-* ** Plugins/**. Important tools for developers including special building tools, data management services and advanced layout design help (like Moon Animator settings).
-
-* ** Game/**. Full frameworks and system parts made to test performance when there is a lot of pressure.
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-Since this place has files **Git Large File Storage (Git LFS)** is needed to handle the files
-
-```bash
-
-# Check if Git LFS is installed and working
-
-git lfs install
-
-```
-
 ### Add Assets to Roblox Studio
 
 1. Find the `.rbxm` (Model) or `.rbxmx` (Plugin) file you want from the folders above.
